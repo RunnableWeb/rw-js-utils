@@ -1,0 +1,12 @@
+{
+  "name": "rw-js-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://SamihAbuawad164@bitbucket.org/runnableweb/rw-js-utils.git"
+  },
+  "author": "RunnableWeb",
+  "license": "ISC"
+}
