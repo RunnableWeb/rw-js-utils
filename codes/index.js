@@ -1,0 +1,1 @@
+export { getVerifyCodeOf5Digits } from './misc'
